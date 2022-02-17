@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Jacques
 ### I'm from DR.Congo and actually live in Russia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy hacking, computing, network, ui, ux, and design in general.
+## 
 <div align="center">
   <a href="https://github.com/jkm243">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jkm243&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
