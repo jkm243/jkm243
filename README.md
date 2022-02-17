@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is **Jacques**
-                              [Website](http://jkmconception.com) • [Twitter](https://twitter.com/jacqueskatsuva)
+<align="center">
+  [Website](http://jkmconception.com) • [Twitter](https://twitter.com/jacqueskatsuva)
+</>
 ### I'm from DR.Congo and actually live in Russia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy hacking, computing, network, ui, ux, and design in general.
 
 # 
