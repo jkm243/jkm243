@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is **Jacques**</h1>
+<h1 align="center">Hi there 👋, my name is </h1> **Jacques**
 
 <div align="center">
   <a href="https://jkmconception.com">Website </a>•
