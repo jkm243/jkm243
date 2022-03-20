@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is <bold>Jacques</bold> </h1>  
 
 <div align="center">
-  <a href="https://jkmconception.com">Website </a>•
+  <a href="https://jacqueskatsuva.com">Website </a>•
     <a href="https://twitter.com/jacqueskatsuva">Twitter</a>
 <div/>
   
@@ -27,6 +27,7 @@
   ##
  
 <div> 
+  <a href="https://www.jacqueskatsuva.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=website&logoColor=blue" target="_blank"></a>
   <a href="https://www.jkmconception.com" target="_blank"><img src="https://img.shields.io/badge/My Design Website's-FF0000?style=for-the-badge&logo=website&logoColor=blue" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100004188587518" target="_blank"><img src="https://img.shields.io/badge/Facebook-2f89fc?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jacques_katsuva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
