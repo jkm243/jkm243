@@ -27,6 +27,7 @@
   <img align="center" alt="Rafa-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  </div> 
   
+  ##
  
 <div> 
   <a href="https://www.jacqueskatsuva.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-66f161?style=for-the-badge&logo=website&logoColor=blue" target="_blank"></a>
