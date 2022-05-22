@@ -5,7 +5,7 @@
     <a href="https://twitter.com/jacqueskatsuva">Twitter</a>
 <div/>
   
-### I'm from DR.Congo and actually live in Russia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy AI, Machine learning, Hacking, Computing, Network, Ui, Ux, and Design in general.
+### I'm based in Russia, and I do content on Design and Development. I really enjoy work in languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy AI, Machine learning, Hacking, Computing, Network, Ui, Ux, and Design in general.
 
 # 
 <div align="center">
