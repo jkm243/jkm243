@@ -8,7 +8,7 @@
 ### I'm based in Russia, and I do content on Design and Development. I really enjoy work in languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy AI, Machine learning, Hacking, Computing, Network, Ui, Ux, and Design in general.
 
 # 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243)] 
 <div align="center">
   <a href="https://github.com/jkm243">
   
