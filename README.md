@@ -9,7 +9,7 @@
 
 # 
  [![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
- [![Jkm's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm243&theme=merko&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Jkm's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm243&theme=merko&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats) 
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
