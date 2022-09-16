@@ -8,7 +8,7 @@
 ### I'm based in Russia, and I do content on Design and Development. I really enjoy work in languages and frameworks like React and React Native, as well as work in Web projects. I also enjoy AI, Machine learning, Hacking, Computing, Network, Ui, Ux, and Design in general.
 
 # 
- ![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243&theme=merko) 
+ [![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  ![Jkm's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm243&theme=merko&layout=compact&langs_count=10) 
   
 <div style="display: inline_block" align="center"><br>
