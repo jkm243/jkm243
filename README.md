@@ -9,7 +9,7 @@
 
 # 
  ![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243&theme=merko) 
- ![Jkm's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm243&theme=merko) 
+ ![Jkm's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkm243&theme=merko&layout=compact&langs_count=10) 
 <div align="center">
   <a href="https://github.com/jkm243">
   
