@@ -6,7 +6,7 @@
 <div/>
   
 ### Hey there! #
-### 🌟 I'm a content creator hailing from the land of Russia, diving deep into the realms of Design and Development. #
+### 🌟 I'm a content creator hailing from the land of Russia, diving deep into the realms of Design and Web Development. #
 ### 🚀 Passionate about coding in languages that make the web go round, such as React and React Native. # 
 ### 💻 My playground also includes fascinating fields like AI, Machine Learning, Hacking, Computing, Networks, and the magical worlds of UI/UX and Design. # 
 ### 🎨 Let's create some digital magic together! ✨ # 
