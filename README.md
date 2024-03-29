@@ -5,7 +5,9 @@
     <a href="https://twitter.com/jacqueskatsuva">Twitter</a>
 <div/>
   
-### Hey there! 🌟 I'm a content creator hailing from the land of Russia, diving deep into the realms of Design and Development. 🚀 Passionate about coding in languages that make the web go round, such as React and React Native. 💻 My playground also includes fascinating fields like AI, Machine Learning, Hacking, Computing, Networks, and the magical worlds of UI/UX and Design. 🎨🌐 Let's create some digital magic together! ✨
+### Hey there! 🌟 I'm a content creator hailing from the land of Russia, diving deep into the realms of Design and Development. 🚀 Passionate about coding in languages that make the web go round, such as React and React Native. # 
+### 💻 My playground also includes fascinating fields like AI, Machine Learning, Hacking, Computing, Networks, and the magical worlds of UI/UX and Design. # 
+### 🎨 Let's create some digital magic together! ✨ # 
 
 # 
  [![Jkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkm243&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
